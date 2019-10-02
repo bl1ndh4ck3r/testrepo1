@@ -1,12 +1,4 @@
-accept
-access
-aclocal
-aconnect
-acpi
-acpi_available
-acpid
-addr2line
-addresses
+
 agetty
 alsactl
 amidi
