@@ -4,9 +4,10 @@ Delimeter List
 ^ 
 &
 &&
+< 
 |     				
 ||
 %0D            
 %0A    
 \n
-< 
+
